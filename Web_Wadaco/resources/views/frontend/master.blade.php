@@ -16,6 +16,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" media="all" />
 <link href="{{ asset('css/ken-burns.css') }}" rel="stylesheet" type="text/css" media="all" />
 <link href="{{ asset('css/animate.min.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ asset('css/price-range.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ asset('css/main.css') }}" rel="stylesheet" type="text/css" media="all" />
 
 
 <!-- js -->
@@ -41,28 +43,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 
-
 <body>
-	<!-- header -->
-	<div class="header">
-		<div class="container">
-			<div class="w3l_header_left">
-				<ul>
-					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <a href="mailto:info@example.com">info@example.com</a></li>
-					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (010) 221 918 811</li>
-				</ul>
-			</div>
-			<div class="w3l_header_right">
-				<ul class="social-icons">
-					<li><a href="#" class="icon icon-border facebook"></a></li>
-					<li><a href="#" class="icon icon-border twitter"></a></li>
-					<li><a href="#" class="icon icon-border instagram"></a></li>
-					<li><a href="#" class="icon icon-border pinterest"></a></li>
-				</ul>
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
 	<div class="header-bottom">
 		<div class="container">
 			<nav class="navbar navbar-default">
@@ -83,11 +64,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-1" id="cl-effect-1">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="/">Home</a></li>
-							<li><a href="/service" class="hvr-bounce-to-bottom">Services</a></li>
-							<li><a href="gallery.html" class="hvr-bounce-to-bottom">Gallery</a></li>
-							<li><a href="short-codes.html" class="hvr-bounce-to-bottom">Short Codes</a></li>
-							<li><a href="mail.html" class="hvr-bounce-to-bottom">Mail Us</a></li>
+							<li class="active"><a href="/">Trang Chủ</a></li>
+							<li><a href="/service" class="hvr-bounce-to-bottom">Dịch Vụ</a></li>
+							<li><a href="/gallery" class="hvr-bounce-to-bottom">Hình Ảnh</a></li>
+							<li><a href="/news" class="hvr-bounce-to-bottom">Tin Tức</a></li>
+							<li><a href="/contact" class="hvr-bounce-to-bottom">Liên Hệ</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -114,6 +95,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	 @yield('index')
 	 @yield('service')
+	 @yield('gallery')
+	 @yield('news')
 
 
 
@@ -141,10 +124,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-2 agileinfo_footer_grid agileinfo_footer_grid1">
 					<ul>
-						<li><a href="/">Home</a></li>
-						<li><a href="services">Services</a></li>
-						<li><a href="gallery.html">Gallery</a></li>
-						<li><a href="mail.html">Contact Us</a></li>
+						<li><a href="/">Trang Chủ</a></li>
+						<li><a href="/services">Dịch Vụ</a></li>
+						<li><a href="/gallery">Hình Ảnh</a></li>
+						<li><a href="/news">Tin Tức</a></li>
+						<li><a href="/contact">Liên Hệ</a></li>
 					</ul>
 				</div>
 				<div class="col-md-3 agileinfo_footer_grid">

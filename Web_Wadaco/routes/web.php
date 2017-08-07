@@ -13,4 +13,8 @@
 
 Route::get('/', 'IndexController@getIndex');
 Route::get('/service', 'ServiceController@getIndex');
+Route::get('/gallery', 'GalleryController@getIndex');
+Route::get('/news', 'NewsController@getIndex');
+Route::get('/contact', 'ContactController@getIndex');
+
 

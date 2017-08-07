@@ -56,7 +56,7 @@
 <!-- about -->
 	<div class="about">
 		<div class="container">
-			<h3>We make your dreams as real</h3>
+			<h3>Phương châm hoạt động công ty</h3>
 			<p class="dolor">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 			<div class="about-grids">
 				<div class="col-md-6 about-grid about-one">
@@ -111,7 +111,7 @@
 <!-- about-bottom -->
 	<div class="about-bottom">
 			<div class="col-md-7 agileits_about_bottom_left">
-				<h3>voluptate velit esse cillum dolore eu fugiat</h3>
+				<h3>Giới thiệu công ty</h3>
 				<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
 					sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 					Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
@@ -161,112 +161,6 @@
 			<div class="clearfix"> </div>
 	</div>
 <!-- //about-bottom -->
-
-<!-- team -->
-	<div class="team">
-		<div class="container">
-			<h3>Our Amazing Team</h3>
-			<p class="dolor">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-			<div class="wthree_team_grids">
-				<div class="col-md-3 wthree_team_grid">
-					<div class="wthree_team_grid1">
-						<div class="hover14 column">
-							<div>
-								<figure><img src="images/1.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						<div class="wthree_team_grid1_pos">
-							<h4>David Martin - Agent</h4>
-						</div>
-					</div>
-					<div class="wthree_team_grid2">
-						<ul class="social-icons">
-							<li><a href="#" class="icon icon-border facebook"></a></li>
-							<li><a href="#" class="icon icon-border twitter"></a></li>
-							<li><a href="#" class="icon icon-border instagram"></a></li>
-							<li><a href="#" class="icon icon-border pinterest"></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 wthree_team_grid">
-					<div class="wthree_team_grid1">
-						<div class="hover14 column">
-							<div>
-								<figure><img src="images/3.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						<div class="wthree_team_grid1_pos">
-							<h4>Reena Scot - Agent</h4>
-						</div>
-					</div>
-					<div class="wthree_team_grid2">
-						<ul class="social-icons">
-							<li><a href="#" class="icon icon-border facebook"></a></li>
-							<li><a href="#" class="icon icon-border twitter"></a></li>
-							<li><a href="#" class="icon icon-border instagram"></a></li>
-							<li><a href="#" class="icon icon-border pinterest"></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 wthree_team_grid">
-					<div class="wthree_team_grid1">
-						<div class="hover14 column">
-							<div>
-								<figure><img src="images/2.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						<div class="wthree_team_grid1_pos">
-							<h4>Rabecca Ali - Agent</h4>
-						</div>
-					</div>
-					<div class="wthree_team_grid2">
-						<ul class="social-icons">
-							<li><a href="#" class="icon icon-border facebook"></a></li>
-							<li><a href="#" class="icon icon-border twitter"></a></li>
-							<li><a href="#" class="icon icon-border instagram"></a></li>
-							<li><a href="#" class="icon icon-border pinterest"></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 wthree_team_grid">
-					<div class="wthree_team_grid1">
-						<div class="hover14 column">
-							<div>
-								<figure><img src="images/4.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						<div class="wthree_team_grid1_pos">
-							<h4>Rosy Carl - Agent</h4>
-						</div>
-					</div>
-					<div class="wthree_team_grid2">
-						<ul class="social-icons">
-							<li><a href="#" class="icon icon-border facebook"></a></li>
-							<li><a href="#" class="icon icon-border twitter"></a></li>
-							<li><a href="#" class="icon icon-border instagram"></a></li>
-							<li><a href="#" class="icon icon-border pinterest"></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-<!-- //team -->
-<!-- newsletter -->
-	<div class="newsletter">
-		<div class="container">
-			<h3>Subscribe to our newsletter</h3>
-			<p class="dolor your">Enter your email address and we'll contact you.</p>
-			<div class="agileits_newsletter_grids">
-				<form action="#" method="post">
-					<input type="email" value="Email" name="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-					<input type="submit" value=" ">
-				</form>
-			</div>
-		</div>
-	</div>
-<!-- //newsletter -->
 <!-- agile_testimonials -->
 	<div class="testimonials">
 		<div class="container">
